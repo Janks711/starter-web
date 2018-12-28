@@ -13,6 +13,7 @@ The Purpose of this file is to be a text
 ## Deployment
 
 ## How to Contribute
+Please fork repo, then initiate pull request for review
 
 Sample website with plenty of files for demos
 
