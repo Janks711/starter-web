@@ -15,3 +15,6 @@ The Purpose of this file is to be a text
 ## How to Contribute
 
 Sample website with plenty of files for demos
+
+## Copyright
+2018 Michael Kijanka
