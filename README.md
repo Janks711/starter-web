@@ -20,4 +20,4 @@ Please fork repo, then initiate pull request for review
 Sample website with plenty of files for demos
 
 ## Copyright
-2018 Michael Kijanka
+2018 Michael Kijanka. All Rights Reserved
